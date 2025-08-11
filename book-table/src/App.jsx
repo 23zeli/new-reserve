@@ -9,6 +9,7 @@ import Menu from './Components/Menu';
 import OrderOnline from './Components/OrderOnline';
 import Reservations from './Components/Reservations';
 import Login from './Components/Login';
+import './App.css';
 
 function App() {
   return (

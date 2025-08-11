@@ -151,3 +151,12 @@ h1 {
   background-color: #EDEFEE;
   border-radius: 20px 20px 0px 0px;
 }  */
+
+.container-header-nav {
+  margin: auto;
+  width: 887px;
+  height: 76px;
+  display: flex;
+  /* flex-flow: wrap; */
+  justify-content: space-between;
+}
